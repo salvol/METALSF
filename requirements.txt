@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-numpy==1.16.6
+numpy
 matplotlib
-astra-toolbox==1.9.0.dev11
-xraydb==4.4.7
+astra-toolbox
+xraydb
