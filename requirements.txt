@@ -5,4 +5,4 @@ numpy
 matplotlib
 xraydb
 scipy
-spekpy
+spekpy==2.0.3
