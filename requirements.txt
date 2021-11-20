@@ -1,4 +1,4 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-numpy==1.16.6==py36hd1b969e_0
+numpy==1.16.6
