@@ -2,6 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 numpy==1.16.6
-matplotlib-base
+matplotlib
 astra-toolbox==1.9.0.dev11
 xraydb==4.4.7
