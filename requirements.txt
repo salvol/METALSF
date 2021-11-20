@@ -5,4 +5,4 @@ numpy
 matplotlib
 xraydb
 scipy
-spekpy==2.0.3
+mayavi
