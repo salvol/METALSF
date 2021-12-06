@@ -5,5 +5,5 @@ numpy
 matplotlib
 xraydb
 scipy
-astra-toolbox
+spekpy
 
